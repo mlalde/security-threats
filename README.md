@@ -7,3 +7,4 @@ Prerequisites:
 - Node.js
 - Sqlite3
   
+Esto es una prueba de la tarea2
